@@ -1,0 +1,10 @@
+C:\Users\N\Desktop\project1\BAI_2\BAI_2\bin\Debug\BAI_2.exe.config
+C:\Users\N\Desktop\project1\BAI_2\BAI_2\bin\Debug\BAI_2.exe
+C:\Users\N\Desktop\project1\BAI_2\BAI_2\bin\Debug\BAI_2.pdb
+C:\Users\N\Desktop\project1\BAI_2\BAI_2\obj\Debug\BAI_2.csprojResolveAssemblyReference.cache
+C:\Users\N\Desktop\project1\BAI_2\BAI_2\obj\Debug\BAI_2.chuong_trinh.resources
+C:\Users\N\Desktop\project1\BAI_2\BAI_2\obj\Debug\BAI_2.HELLO_WORD.resources
+C:\Users\N\Desktop\project1\BAI_2\BAI_2\obj\Debug\BAI_2.Properties.Resources.resources
+C:\Users\N\Desktop\project1\BAI_2\BAI_2\obj\Debug\BAI_2.csproj.GenerateResource.Cache
+C:\Users\N\Desktop\project1\BAI_2\BAI_2\obj\Debug\BAI_2.exe
+C:\Users\N\Desktop\project1\BAI_2\BAI_2\obj\Debug\BAI_2.pdb

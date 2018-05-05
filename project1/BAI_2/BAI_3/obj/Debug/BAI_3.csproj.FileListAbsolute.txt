@@ -1,0 +1,9 @@
+C:\Users\N\Desktop\project1\BAI_2\BAI_3\bin\Debug\BAI_3.exe.config
+C:\Users\N\Desktop\project1\BAI_2\BAI_3\bin\Debug\BAI_3.exe
+C:\Users\N\Desktop\project1\BAI_2\BAI_3\bin\Debug\BAI_3.pdb
+C:\Users\N\Desktop\project1\BAI_2\BAI_3\obj\Debug\BAI_3.csprojResolveAssemblyReference.cache
+C:\Users\N\Desktop\project1\BAI_2\BAI_3\obj\Debug\BAI_3.GPT_bac2.resources
+C:\Users\N\Desktop\project1\BAI_2\BAI_3\obj\Debug\BAI_3.Properties.Resources.resources
+C:\Users\N\Desktop\project1\BAI_2\BAI_3\obj\Debug\BAI_3.csproj.GenerateResource.Cache
+C:\Users\N\Desktop\project1\BAI_2\BAI_3\obj\Debug\BAI_3.exe
+C:\Users\N\Desktop\project1\BAI_2\BAI_3\obj\Debug\BAI_3.pdb
